@@ -34,4 +34,3 @@ class Stack:
             return 0
         self.head=self.head.next
         self.size = self.size-1
-
